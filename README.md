@@ -18,3 +18,13 @@ This script will search news sources for a keyword and then carry out sentiment 
 }
   ```
   
+  &nbsp;
+  &nbsp;
+  
+  
+  
+  
+  
+ <h2 align="center"> An example using the politician "Matt Hancock" as the keyword.</h2>
+ 
+ ![Line graph displaying if the recent news for "Matt Hancock" has been positive or negative](https://github.com/emmabehr/NewsSentimentAnalyser/blob/master/img/Figure_1.png)
